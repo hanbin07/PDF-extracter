@@ -1,6 +1,6 @@
 # PDF-extracter
 
-This code gives function to extract partial pages from pdf file. 
+This code provides a function to extract partial pages from pdf files.
 
 You have to install below python package.
 
